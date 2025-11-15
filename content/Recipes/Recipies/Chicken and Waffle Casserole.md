@@ -27,7 +27,7 @@
 7. Bake for 45-50mins 
 8. Remove and let rest for 5-10 mins
 
-##### Macros
+##### Nutrition
 Servings 6
 Protein - 25g
 Fat - 15g
