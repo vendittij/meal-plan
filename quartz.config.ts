@@ -47,7 +47,7 @@ const config: QuartzConfig = {
           dark: "#ffffff", // --clr-light-a0
           secondary: "#d17ff4", // --clr-primary-a0
           tertiary: "#d78ef6", // --clr-primary-a10
-          highlight: "#d7ac61", // --clr-surface-tonal-a0
+          highlight: "#3c273a", // --clr-surface-tonal-a0
           textHighlight: "#e8b9fa", // --clr-primary-a40
         },
       },
