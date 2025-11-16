@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#ffffff", // --clr-light-a0
+          lightgray: "#f2d5fc", // --clr-primary-a60
+          gray: "#e3aaf8", // --clr-primary-a30
+          darkgray: "#5f5858", // --clr-surface-a30
+          dark: "#1c1414", // --clr-surface-a0
+          secondary: "#d17ff4", // --clr-primary-a0
+          tertiary: "#d78ef6", // --clr-primary-a10
+          highlight: "#edc7fb", // --clr-primary-a50
+          textHighlight: "#e8b9fa", // --clr-primary-a40
         },
         darkMode: {
-          light: "#2C061F",
-          lightgray: "#374045",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#D89216",
-          tertiary: "#E1D89F",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1c1414", // --clr-surface-a0
+          lightgray: "#5f5858", // --clr-surface-a30
+          gray: "#777272", // --clr-surface-a40
+          darkgray: "#a398a2", // --clr-surface-tonal-a50
+          dark: "#ffffff", // --clr-light-a0
+          secondary: "#d17ff4", // --clr-primary-a0
+          tertiary: "#d78ef6", // --clr-primary-a10
+          highlight: "#3c273a", // --clr-surface-tonal-a0
+          textHighlight: "#e8b9fa", // --clr-primary-a40
         },
       },
     },
