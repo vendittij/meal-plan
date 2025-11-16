@@ -36,7 +36,7 @@ const config: QuartzConfig = {
           dark: "#1c1414", // --clr-surface-a0
           secondary: "#d17ff4", // --clr-primary-a0
           tertiary: "#d78ef6", // --clr-primary-a10
-          highlight: "#edc7fb", // --clr-primary-a50
+          highlight: "#d7ac61", // --clr-primary-a50
           textHighlight: "#e8b9fa", // --clr-primary-a40
         },
         darkMode: {

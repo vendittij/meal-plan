@@ -1,4 +1,4 @@
-[[Cajun Chicken and Broccoli Alfredo]] - 30mins
-[[Chicken and Waffle Casserole]] - 1hr 
-[[Chicken Teriyaki Bowl]] - 20mins
-[[Ground Chicken Stirfry]] - 20mins
+- [[Cajun Chicken and Broccoli Alfredo]] - 30mins
+- [[Chicken and Waffle Casserole]] - 1hr 
+- [[Chicken Teriyaki Bowl]] - 20mins
+- [[Ground Chicken Stirfry]] - 20mins
