@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Meal Plan Recipe Book",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: f,
+    enablePopovers: false,
     analytics: {
       provider: "plausible",
     },
