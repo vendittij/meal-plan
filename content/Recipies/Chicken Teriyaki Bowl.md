@@ -1,3 +1,5 @@
+![[Pasted image 20251115185430.png]]
+
 ##### Ingredients
 - 1lb boneless skinless chicken
 ###### Bowl

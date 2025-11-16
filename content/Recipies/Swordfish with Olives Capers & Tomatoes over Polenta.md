@@ -1,3 +1,4 @@
+![[Pasted image 20251115185606.png]]
 ##### Ingredients
 - 1/2 cup polenta
 - 1tbsp olive oil

@@ -1,3 +1,5 @@
+![[Pasted image 20251115185452.png]]
+
 ##### Ingredients
 - 1lb ground meat
 - 1/2 cup shredded carrot

@@ -1,3 +1,6 @@
+
+![[Pasted image 20251115185309.png]]
+
 #### Ingredients ####
 - 1.5lbs boneless skinless chicken
 	- Chopped small

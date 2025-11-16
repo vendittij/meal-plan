@@ -1,3 +1,5 @@
+![[Pasted image 20251115185548.png]]
+
 ##### Ingredients
 - 4 ears of corn
 - 1.5 cups low fat milk
