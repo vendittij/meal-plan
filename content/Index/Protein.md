@@ -1,13 +1,13 @@
-- [[Chicken]]
+- [[Chicken Recipes]]
 	- Thigh
 	- Breast
 	- Ground
-- [[Turkey]]
+- [[Turkey Recipes]]
 	- Cutlet
 	- Ground
-- [[Tofu]]
+- [[Tofu Recipes]]
 	- 
-- [[Salmon]]
-- [[White fish]]
-- [[Shrimp]]
-- [[Egg]]
+- [[Salmon Recipes]]
+- [[White fish Recipes]]
+- [[Shrimp Recipes]]
+- [[Egg Recipes]]

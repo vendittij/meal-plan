@@ -6,7 +6,7 @@
 - 8oz whole water chestnuts
 - 2 green onions
 - Salt and Pepper to taste
-- [[Recipies/Stirfry Sauce|Stirfry Sauce]]
+- [[Stirfry Sauce|Stirfry Sauce]]
 
 ##### Instructions
 1. Brown chicken over medium heat

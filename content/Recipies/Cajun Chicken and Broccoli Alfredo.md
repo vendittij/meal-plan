@@ -1,4 +1,4 @@
-##### Ingredients #####
+#### Ingredients ####
 - 1.5lbs boneless skinless chicken
 	- Chopped small
 - 3tbsp [[Cajun Seasoning]]
@@ -19,7 +19,7 @@
 - 1 med zucchini
 - 1/2 cup parm - 56g
 
-##### Instructions
+#### Instructions
 1. Chop chicken and season with cajun seasoning
 2. In dutch oven heat oil on med-high. Cook chicken until cooked through. Approx 5mins then remove
 3. Add veg onion and garlic and saute until soft

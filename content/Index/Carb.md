@@ -1,4 +1,4 @@
-- [[Pasta]]
-- [[Rice]]
-- [[Quinoa]]
-- [[Potato]]
+- [[Pasta Recipes]]
+- [[Rice Recipes]]
+- [[Quinoa Recipes]]
+- [[Potato Recipes]]
