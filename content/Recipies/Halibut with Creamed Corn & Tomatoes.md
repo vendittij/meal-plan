@@ -1,4 +1,4 @@
-![[Pasted image 20251115185548.png]]
+![[Pasted image 20251115185548.png|500]]
 
 ##### Ingredients
 - 4 ears of corn
@@ -32,7 +32,7 @@
 11. Heat oil in large pan, med-high. Cook fish about 5-7mins until lightly browned
 12. Serve over creamed corn and tomatoes
 
-##### Macros
+##### Nutrition 
 Servings - 4
 Calories - 422
 Protien - 35g

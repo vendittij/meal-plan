@@ -1,4 +1,4 @@
-![[Pasted image 20251115185606.png]]
+![[Pasted image 20251115185606.png|500]]
 ##### Ingredients
 - 1/2 cup polenta
 - 1tbsp olive oil
@@ -26,7 +26,7 @@
 6. Place swordfish in simmering sauce. Cook until cooked through ~10/15mins
 7. Serve fish over polenta, top with sauce and fresh basil
 
-##### Macros
+##### Nutrition
 Servings - 4
 Cals - 276
 Protein - 22g

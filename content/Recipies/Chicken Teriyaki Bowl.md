@@ -1,4 +1,4 @@
-![[Pasted image 20251115185430.png]]
+![[Pasted image 20251115185430.png|500]]
 
 ##### Ingredients
 - 1lb boneless skinless chicken

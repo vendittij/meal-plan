@@ -6,7 +6,6 @@
 	- Cutlet
 	- Ground
 - [[Tofu Recipes]]
-	- 
 - [[Salmon Recipes]]
 - [[White fish Recipes]]
 - [[Shrimp Recipes]]

@@ -1,4 +1,4 @@
-![[Pasted image 20251115185452.png]]
+![[Pasted image 20251115185452.png|500]]
 
 ##### Ingredients
 - 1lb ground meat

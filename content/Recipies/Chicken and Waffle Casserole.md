@@ -1,4 +1,4 @@
-![[Pasted image 20251115185359.png]]
+![[Pasted image 20251115185359.png|500]]
 
 ##### Ingredients
 - 6 kodiak cakes buttermilk and vaniila power waffles 
